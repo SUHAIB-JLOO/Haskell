@@ -1,4 +1,4 @@
--- Aufgabe 2 --- Gruppe King Salat ----
+-- Aufgabe 2 --- with Ammar ----
 
 char2Int :: Char -> Char -> Int
 char2Int x c = fromEnum c - fromEnum x
