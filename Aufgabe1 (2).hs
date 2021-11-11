@@ -1,4 +1,4 @@
--- Aufgabe 1 --- Gruppe King Salat -----
+-- Aufgabe 1 --- 
 
 -- Eigene Listenfunktionen --
 myhead :: [Int] -> Int
