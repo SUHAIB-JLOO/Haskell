@@ -4,7 +4,7 @@ data Range a = Range {
     lower_bound :: a,
     upper_bound :: a
 } deriving Show
-
+-- nothings
 -- Creates a new range
 newRange :: Ord a => a -> a -> Range a
 newRange low up | low <= up = Range { lower_bound = low, upper_bound = up }
